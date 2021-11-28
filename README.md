@@ -9,7 +9,7 @@ Fork the repo, Clone the repo. Run `npm i` in the terminal to get the necessary 
 ## Screenshot
 ![Screen Shot 2021-11-28 at 3 26 04 PM](https://user-images.githubusercontent.com/61998811/143790606-c054cdfa-411b-48e8-94c8-f3c9cc545fb5.png)
 
-## [Full Site](https://workout-tracker-elig.herokuapp.com/)
+## [Full Site](https://elig-budget-tracker.herokuapp.com/)
 ## Contact Me <br>
 ### username: @eliglezz<br>
 ### email: glez.eliezer@gmail.com<br>
